@@ -1,0 +1,40 @@
+body{
+    background-color: teal;
+    font-family:monospace;
+    font-family: 'Cairo', sans-serif;
+}
+
+.text-center{
+    background-color: rgb(151, 172, 172);
+}
+
+p{
+    word-spacing: 2px;
+    color:darkslateblue;
+    font-size: 20px;
+}
+
+#sound{
+    color:floralwhite;
+}
+
+
+.copy_right_footer {
+    color: rgb(186, 204, 221);
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(53, 52, 52);
+}
+
+#heading{
+     font-size: 50px;
+}
+
+.btn-warning{
+    width:80px;
+    color:whitesmoke;
+    font-size:17px;
+    border-color: black;
+    border-width:1.5px;
+}
